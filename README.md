@@ -1,3 +1,5 @@
+# Moved to https://github.com/syatt-io/fe-assessments/tree/main/react-mini-project-main for archival purposes
+
 # React Mini Project
 
 Not meant to be an overly difficult or time consuming, this is an opportunity to show us your stuff!
